@@ -1,1 +1,1 @@
-# DS_projects
+This is a complete project on EDA as well as classification algorithm on Customer churn data of a bank. The process includes data collection, cleaning, transforming,encoding , visualizing and getting insigts and making the good prediction from business point of view. 
